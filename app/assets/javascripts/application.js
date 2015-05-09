@@ -43,5 +43,26 @@ function rotateImages(){
 
   $("#photoShow").animate({marginLeft: "-4400px"}, 1000).delay(4000);
 
+  $("#photoShow").animate({marginLeft: "-4800px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "-5200px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "-5600px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "-6000px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "-6400px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "-6800px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "-7200px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "-7600px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "-8000px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "-8400px"}, 1000).delay(4000);
+
+
   $("#photoShow").animate({marginLeft: "-0px"}, 1000).delay(4000);
 }
