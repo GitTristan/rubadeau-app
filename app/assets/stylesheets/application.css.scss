@@ -16,32 +16,3 @@
  // "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables"
 @import "bootstrap-sprockets";
 @import "bootstrap";
-*{
-  box-sizing: border-box;
-}
-h2{
-    margin: 0;
-    color: #666;
-    padding-top: 90px;
-    font-size: 52px;
-    font-family: "trebuchet ms", sans-serif;
-}
-.item{
-    background: white;
-    height: 380px;
-    left: 50%;
-    right: 40%;
-}
-.carousel{
-    margin-top: 20px;
-}
-.bs-example{
-	margin: 20px;
-}
-.jumbotron {
-  color: purple;
-}
-// .carousel-inner{
-//   width: 600px;
-//   background-color: white;
-// }
